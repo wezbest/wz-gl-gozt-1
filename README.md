@@ -21,5 +21,5 @@
 
 # Scratch 
 
-fu. . z
-  j
+.. test
+ b
